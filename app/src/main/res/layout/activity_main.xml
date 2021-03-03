@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.myrecyclerview.MyRecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/table"
+    android:clickable="true"
+    tools:context=".MainActivity"
+    android:focusable="true">
+
+</com.example.myrecyclerview.MyRecyclerView>
